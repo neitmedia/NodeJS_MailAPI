@@ -11,4 +11,5 @@ By default, the microservice listens on port 8081 and waits for incoming request
 *API methods*:
  
 GET /get-folders?token=<ACCESS_TOKEN>&folder=<MAILBOX/FOLDER>&username=<ACCOUNT_USERNAME>&password=<ACCOUNT_PASSWORD>&host=<HOST>&imap_port=<IMAP_PORT>:
-  gives back a nested array of all account mailboxes / folders
+
+gives back a nested array of all account mailboxes / folders
