@@ -1,6 +1,6 @@
-*NodeJS MAIL API*
+# NodeJS MAIL API
 
-A small NodeJS Microservice that allows getting mails from IMAPS server and sending mails via SMTPS server
+## A small NodeJS Microservice that allows getting mails from IMAPS server and sending mails via SMTPS server
 
 start: node index.js <ACCESS_TOKEN>
   
