@@ -2,7 +2,7 @@
 
 A small NodeJS Microservice that allows getting mails from IMAPS server and sending mails via SMTPS server
 
-start: node index.js <ACCESS TOKEN>
+start: node index.js <ACCESS_TOKEN>
   
 *API FUNCTIONALITY:*
   
